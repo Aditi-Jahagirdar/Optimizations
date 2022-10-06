@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  Optimizations
-//
-//  Created by Aditi Jahagirdar on 06/10/22.
-//
 
 #include <iostream>
 

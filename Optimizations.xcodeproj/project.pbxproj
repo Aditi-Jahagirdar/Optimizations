@@ -41,7 +41,7 @@
 		7F903EA928EF458500ACE647 = {
 			isa = PBXGroup;
 			children = (
-				7F903EB428EF458500ACE647 /* Optimizations */,
+				7F903EB428EF458500ACE647 /* Source */,
 				7F903EB328EF458500ACE647 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7F903EB428EF458500ACE647 /* Optimizations */ = {
+		7F903EB428EF458500ACE647 /* Source */ = {
 			isa = PBXGroup;
 			children = (
 				7F903EB528EF458500ACE647 /* main.cpp */,
 			);
-			path = Optimizations;
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
