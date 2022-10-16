@@ -50,6 +50,8 @@ int main()
     vect.emplace_back(40,50,60);
     vect.emplace_back(70,80,90);
     
+    std::cout<<std::endl;
+    
     return 0;
   
 }
